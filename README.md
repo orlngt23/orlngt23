@@ -8,7 +8,6 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-
 <a href="https://instagram.com/orland_gut.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="orland_gutdev" height="30" width="40" /></a>
 </p>
 
